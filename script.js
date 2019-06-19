@@ -17,8 +17,8 @@
 
   return politico;
   };
-  var mark = makepolitico("Mark Diller", [132,17,11]);
-  var gail = makepolitico("Gail Brewer", [245,141,136]);
+  var mark = makepolitico("Mark Green", [132,17,11]);
+  var gail = makepolitico("David Dinkins", [245,141,136]);
 console.log("Mark's color is " + mark.partyColor);
 console.log ("Gail's color is " + gail.partyColor);
 
